@@ -1,7 +1,8 @@
 const { defineConfig } = require("cypress");
 module.exports = {
   projectId: "jf1ons"
-}
+} /* aggiunto io guida cypress plugin  */
+
 module.exports = 
 defineConfig({
   e2e: {
